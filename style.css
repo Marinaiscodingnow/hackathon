@@ -1,0 +1,57 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar{
+ background-color: #9b714b;
+}
+
+.nav-link{
+  color: #3d2305;
+  font-size: 150%;
+  font-family: 'Indie Flower';
+}
+
+.nav-linkactive{
+  color: #351e03;
+  font-size: 150%;
+ font-family: 'Indie Flower';
+}
+
+.navbar-brand{
+  color: #311502;
+  font-size: 200%;
+  font-family: 'Indie Flower';
+}
+
+body{
+  background-color: #805833;
+}
+
+.heading {
+  color: #b89d51;
+  font-family: 'Indie Flower';
+  text-align: center;
+  font-size: 80px;
+}
+
+.text {
+    color: #0a3d20;
+  font-family: 'Indie Flower';
+  text-align: center;
+  background-color: #b88351;
+  border-radius: 10%;
+  padding: 30px;
+  
+}
+
+.dropdown-menu{
+  background-color: #3c673d;
+}
+
+.img{
+  margin-left: 20%;
+  padding: 10px;
+  
+}
